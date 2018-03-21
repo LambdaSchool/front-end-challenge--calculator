@@ -5,7 +5,7 @@ import operate from './operate';
  * calculator data object.
  *
  * Calculator data object contains:
- *   total:St      the running total
+ *   total:String      the running total
  *   next:String       the next number to be operated on with the total
  *   operation:String  +, -, etc.
  */
